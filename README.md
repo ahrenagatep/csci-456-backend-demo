@@ -19,6 +19,7 @@ A simple Node.js + Express backend connected to PostgreSQL to demonstrate unders
 5. Test API endpoints with Postman.
 
 ## Setup Instructions
+### PREREQUISITES: Node.js must be installed on your computer
 ### 1. Clone the Repository
 ```
 git clone https://github.com/YOUR-USERNAME/csci-456-backend-demo.git
@@ -31,3 +32,4 @@ npm install
 ```
 npm run dev
 ```
+### 4. Simulate HTTP calls via Postman
